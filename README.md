@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/github/stars/rmacordeiro/LiveLockScreen">
-  <img src="https://img.shields.io/github/license/rmacordeiro/LiveLockScreen">
+  <img src="https://img.shields.io/github/stars/rmacordeiro/ScreenSaver">
+  <img src="https://img.shields.io/github/license/rmacordeiro/ScreenSaver">
   <img alt="GNOME Shell" src="https://img.shields.io/badge/GNOME_Shell-46%2B-4A86CF?logo=gnome&logoColor=white"/>
   <img src="https://img.shields.io/badge/status-active-success">
 </p>
